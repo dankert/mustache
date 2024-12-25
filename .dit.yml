@@ -1,0 +1,4 @@
+project:
+  name: mustache
+  title: Mustache
+  description: Mustache template parser
